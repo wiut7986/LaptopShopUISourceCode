@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\ASP.NET Projects\CW\Published</_PublishTargetUrl>
+    <History>True|2021-11-08T18:57:16.6345406Z;True|2021-11-08T22:33:58.8020590+05:00;True|2021-11-08T22:09:30.4103483+05:00;True|2021-11-08T22:06:27.3025936+05:00;True|2021-11-07T22:01:09.2385779+05:00;</History>
+  </PropertyGroup>
+</Project>
